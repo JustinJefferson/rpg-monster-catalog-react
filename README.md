@@ -1,3 +1,9 @@
+# RPG Monster Catalog
+
+The purpose of this project is to create an application to assist in the development of monsters in an RPG.
+
+# React Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
